@@ -1,0 +1,12 @@
+{
+  "name": "nodeclass5",
+  "version": "1.0.0",
+  "description": "Console object and methods",
+  "license": "MIT",
+  "author": "Giorthy Lopez <giorthydev@gmail.com>",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
